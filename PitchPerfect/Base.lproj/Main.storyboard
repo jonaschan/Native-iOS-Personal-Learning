@@ -42,8 +42,8 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="PITCH  PERFECT" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dzn-C1-6l3" userLabel="Title Label">
-                                <rect key="frame" x="119.00000000000001" y="82" width="176.33333333333337" height="112.33333333333331"/>
-                                <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="41"/>
+                                <rect key="frame" x="121.33333333333331" y="82" width="172" height="112.33333333333331"/>
+                                <fontDescription key="fontDescription" name="Avenir-Book" family="Avenir" pointSize="41"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
