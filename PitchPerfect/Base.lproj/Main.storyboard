@@ -29,8 +29,7 @@
                             <button opaque="NO" contentMode="center" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="C1J-ug-YYj">
                                 <rect key="frame" x="102" y="565" width="96" height="93"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="96" id="nSs-ZF-QFD"/>
-                                    <constraint firstAttribute="height" constant="93" id="y11-Zv-7mf"/>
+                                    <constraint firstAttribute="width" secondItem="C1J-ug-YYj" secondAttribute="height" multiplier="32:31" id="3Tg-fU-EHz"/>
                                 </constraints>
                                 <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <state key="normal" image="RecordingButton">
@@ -56,8 +55,7 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mCZ-vc-WE7" userLabel="Stop Recording Button">
                                 <rect key="frame" x="227" y="563" width="93" height="96"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="96" id="jyB-W2-YBP"/>
-                                    <constraint firstAttribute="width" constant="93" id="llM-I8-LiB"/>
+                                    <constraint firstAttribute="width" secondItem="mCZ-vc-WE7" secondAttribute="height" multiplier="31:32" id="c9b-kK-Qfo"/>
                                 </constraints>
                                 <state key="normal" image="Stop">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
